@@ -3,7 +3,7 @@ immutable
 
 generic functions to support immutable functional programming idioms
 
-[![Build Status](https://travis-ci.org/fcostin/immutable.png)](https://travis-ci.org/fcostin/immutable)
+[![Build Status](https://travis-ci.org/fcostin/py-immutable.png)](https://travis-ci.org/fcostin/py-immutable)
 
 
 ### motivation
