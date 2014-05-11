@@ -3,11 +3,13 @@ immutable
 
 generic functions to support immutable functional programming idioms
 
+[![Build Status](https://travis-ci.org/fcostin/immutable.png)](https://travis-ci.org/fcostin/immutable)
+
 
 ### motivation
 
-*   state makes things harder to reason about
-*   most of the time you don't need state, (immutable) values work fine.
+*   state makes things harder to reason about.
+*   most of the time you don't need state, values work fine.
 
 ### nomenclature
 
